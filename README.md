@@ -6,42 +6,19 @@ With over 1.5 years of hands-on experience in the IT industry, I have been activ
 
 🔹 My Projects
 
-## 🔹 publish-subscribe
-**Description:** A program written in C that implements the publish-subscribe pattern, allowing users to receive news from different topics they have subscribed to.
-**Repository:** [publish-subscribe](https://github.com/kasiabadio/publish-subscribe)
+### 🔹 [publish-subscribe](https://github.com/kasiabadio/publish-subscribe)
+A program written in C that implements the publish-subscribe pattern, allowing users to receive news from different topics they have subscribed to.
 
-## 🔹 raspberry-touch-piano
-**Description:** An electronic touch piano project developed using Raspberry Pi and Python.
-**Repository:** [raspberry-touch-piano](https://github.com/kasiabadio/raspberry-touch-piano)
+### 🔹 [raspberry-touch-piano](https://github.com/kasiabadio/raspberry-touch-piano)
+An electronic touch piano project developed using Raspberry Pi and Python.
 
-## 🔹 task-scheduling
-**Description:** A parallel task scheduling program written in C++.
-**Repository:** [task-scheduling](https://github.com/kasiabadio/task-scheduling)
+### 🔹 [task-scheduling](https://github.com/kasiabadio/task-scheduling)
+A parallel task scheduling program written in C++.
 
-## 🔹 oop-programming-java
-**Description:** Exercises completed from a Coursera course on Java Programming offered by Duke University.
-**Repository:** [oop-programming-java](https://github.com/kasiabadio/oop-programming-java)
+### 🔹 [ships-java](https://github.com/kasiabadio/ships-java)
+An object-oriented solution for a ships game created with Java.
 
-## 🔹 ships-java
-**Description:** An object-oriented solution for a ships game created with Java.
-**Repository:** [ships-java](https://github.com/kasiabadio/ships-java)
-
-## 🔹 knowledge-app-spring
-**Description:** A web application developed using Spring Boot and Angular.
-**Repository:** [knowledge-app-spring](https://github.com/kasiabadio/knowledge-app-spring)
+### 🔹 [knowledge-app-spring](https://github.com/kasiabadio/knowledge-app-spring)
+A web application developed using Spring Boot and Angular.
 
 🔭 Feel free to explore these repositories to learn more about my work. If you have any questions or suggestions, please don't hesitate to reach out.
-<!--
-**kasiabadio/kasiabadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
