@@ -1,6 +1,6 @@
 ## Full-stack developer
 
- Hi there 👋 I hold a Bachelor's degree in Computer Science Engineering and am currently in my final semester of a Master’s program in Cybersecurity at Politechnika. Throughout my academic and professional journey, I have cultivated a strong foundation in software development, backend engineering, and test automation, with a particular emphasis on Java, and Angular.
+ Hi there 👋 I hold a Bachelor's degree in Computer Science Engineering and am currently in my final semester of a Master’s program in Cybersecurity at Politechnika. Throughout my academic and professional journey, I have cultivated a strong foundation in software development, backend engineering, and test automation, with a particular emphasis on Java and Angular.
 
 With over 1.5 years of hands-on experience in the IT industry, I have been actively involved in developing scalable applications, automated testing frameworks, and frontend interfaces. My expertise lies in designing and optimizing RESTful APIs, building backend architectures, and implementing effective software testing solutions.
 
