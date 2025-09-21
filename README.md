@@ -1,12 +1,10 @@
-Junior Java Fullstack Developer with experience in Java, Spring Boot, and Angular, aiming to grow into a Mid-level Developer role.
+Junior Fullstack Developer (Java, Spring Boot, Angular) with a strong academic background in Cybersecurity (MSc) and a passion for building secure, scalable, and user-friendly web applications. Currently aiming to grow into a Mid-Level Developer role, while combining solid technical knowledge with a focus on security and code quality.
 
-Specialization: Developing web applications with a strong focus on code quality, readability, and security.
+🔹 Specialization: Designing and implementing web applications with emphasis on readability, maintainability, and security (AppSec, OWASP).
+🔹 Interests: Secure coding practices, application security, web vulnerability prevention, and process automation.
+🔹 Work approach: Analytical mindset with strong problem-solving skills, persistence, and commitment to continuous improvement. I thrive in collaborative environments that value clear communication, mutual respect, and constructive feedback.
 
-Interests: Application cybersecurity (AppSec), secure coding practices, and protection against OWASP vulnerabilities.
-
-Approach to work: Committed to precision, persistence, and continuous improvement of technical skills. Strong focus on problem-solving, effective code analysis, optimization of solutions, and finding ways to automate repetitive processes.
-
-Thrives in team environments where clear communication, mutual respect, and a culture of constructive feedback are valued. Known for an analytical mindset and empathy, able to bridge the gap between developers, testers, and stakeholders.
+💡 Tech Stack: Java | Spring Boot | Angular | Git | Docker | Linux | Agile | Cybersecurity | REST API
 
 🔹 My Projects
 
