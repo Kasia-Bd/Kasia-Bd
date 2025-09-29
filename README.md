@@ -23,4 +23,7 @@ An object-oriented solution for a ships game created with Java.
 ### 🔹 [knowledge-app-spring](https://github.com/kasiabadio/knowledge-app-spring)
 A web application developed using Spring Boot and Angular.
 
+### 🔹 [Definition-of-Done-tool](https://github.com/Kasia-Bd/Definition-of-Done)
+A master's thesis about creating Definition of Done from templates written in NoRT notation. Project was created in Angular and Spring Boot.
+
 🔭 Feel free to explore these repositories to learn more about my work. If you have any questions or suggestions, please don't hesitate to reach out.
