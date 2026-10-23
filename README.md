@@ -1,9 +1,9 @@
 Fullstack Developer (Java, Spring Boot, Angular) with a strong academic background in Cybersecurity (MSc) and a passion for building secure, scalable, and user-friendly web applications. I have more than 3 years of professional experience in IT industry.
 
 
-🔹 Specialization: Designing and implementing web applications with emphasis on readability, maintainability, and security (AppSec, OWASP).
-🔹 Interests: Secure coding practices, application security.
-🔹 Work approach: Analytical mindset with strong problem-solving skills, persistence, and commitment to continuous improvement. I thrive in collaborative environments that value clear communication, mutual respect, and constructive feedback.
+🔹 Specialization: Designing and implementing web applications with emphasis on readability, maintainability, and security (AppSec, OWASP).    
+🔹 Interests: Secure coding practices, application security.    
+🔹 Work approach: Analytical mindset with strong problem-solving skills, persistence, and commitment to continuous improvement. I thrive in collaborative environments that value clear communication, mutual respect, and constructive feedback.   
 
 
 💡 Tech Stack: Java | Spring Boot | Angular | Git | Docker | Linux | Agile | Cybersecurity | REST API | SQL | Python
